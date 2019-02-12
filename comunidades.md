@@ -14,4 +14,4 @@ Se você possui o contato ou gostaria de submeter mais alguma, envie um Pull Req
 | Science Pub           | Lucas Sousa Vieira    |
 | Agile Maranhão        | Evaldo Barbosa        |
 | AMA Games             | Nuninho Neto          |
-| Startup Maranhão      | Pendente              |
+| Startup Maranhão      | Não definido aqui     |

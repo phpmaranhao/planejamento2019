@@ -8,6 +8,5 @@ Se você tem interesse em se tornar um parceiro PHP Maranhão, envie um *pull re
 | Empresa/Instituição  | Representante	|
 |----------------------|----------------|
 | CEST                 | Thiago Reis    |
-| UNDB                 | Bruno Lima     |
-| Code Experts Learning| Antonio Rabelo |
+| UNDB                 | Não definido aqui |
 | UemaNet              | Willian Mano   |
